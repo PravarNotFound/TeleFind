@@ -1,4 +1,4 @@
-# Telegram_User_Number_Finder :
+# Telegram User Number Finder :
 Find the phone number of any telegram users
 
 # Installation :
